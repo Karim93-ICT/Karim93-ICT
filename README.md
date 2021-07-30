@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Karim
-- 👀 I’m interested in building WordPress sites
 - 🌱 I’m currently learning how to create highly customized, user friendly and mobile responsive WordPress web apps.
 - 📫 Please feel free to reach me by email : karim.abdelkarim@outlook.com
 
